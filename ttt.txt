@@ -1,2 +1,3 @@
-Prost tekst
 promqna s bash
+promqna s tortise
+
